@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @proxrustes
+- 🌱 I’m currently learning React, Angular and TS
+- 📫 You can reach me by sending an emait at proxrustes@gmail.com
